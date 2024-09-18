@@ -1,2 +1,0 @@
-# BaiTapNhom
-Bài Tập Java
